@@ -1,2 +1,3 @@
 # blue-squirrel.demo
-this is my frist git repository
+this is my first git repository
+author-Amrita Nag
